@@ -1,6 +1,6 @@
-# Bitcoin Trading Algorithm 
+# Cryptocurrency Trading Algorithm 
 
-Bitcoin is a digital currency which operates free of any central control or the oversight of banks or government. 
+Crytocurrency is a digital currency which operates free of any central control or the oversight of banks or government. 
 Although known for higher returns, Cryptocurrency market is highly volatile market and very risky in nature.
 This algorithm uses historical data and predicts whether or not to make an investment in Cryptocurrency. 
 
